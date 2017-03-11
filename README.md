@@ -1,5 +1,4 @@
-# php-subject
-PHP相关题库
+#PHP相关题库
 ---
 
 ##PHP相关
